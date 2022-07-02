@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: #080917;
+}
+
+body h1{
+    margin: 10px 30px;
+}
+
+body h2{
+    color: aliceblue;
+}
+
+body h3{
+    color: aliceblue;
+}
+
+.texto_branco{
+    color: aliceblue;
+}
+
+.texto_branco_maior{
+    color: aliceblue;
+    font-size: 15px;
+}
